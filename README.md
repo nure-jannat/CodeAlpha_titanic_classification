@@ -8,4 +8,5 @@ I have made a model on this legendary dataset as a part of my internship program
 4. Feature Encoding
 5. Model Building 
 6. Model Evaluation
+
 I used the Logistic Regression for building the model. The accuracy for this model is 81%.
