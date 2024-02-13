@@ -11,4 +11,4 @@ I have made a model on this legendary dataset as a part of my internship program
 
 I used the Logistic Regression for building the model. The accuracy for this model is 81%. 
 
-Initially data are in two files "train.csv" and "test.csv". I make a model on the "train.csv" an.d evaluated it. After that I again do some preprocessing on the "test.csv" to feed them in my model, then I predict the survival status.
+Initially data were in two files "train.csv" and "test.csv". I make a model on the "train.csv" an.d evaluated it. After that I again do some preprocessing on the "test.csv" to feed them in my model, then I predict the survival status.
